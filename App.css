@@ -1,0 +1,92 @@
+.fondo{
+  height: 99.4vh;
+  width: 100%;
+  display: flex;
+
+}
+.contenedor{
+  height: 100vh;
+  width: 50%;
+  position: absolute;
+  bottom: 4px;
+  display: flex;
+}
+.contenedor2{
+  height: 100vh;
+  width: 50%;
+  position: absolute;
+  bottom: 4px;
+  left: 560px;
+
+}
+.imagen{
+  height: 85vh;
+    width: 80%;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+    opacity: 60%;
+    display: flex;
+}
+h1{
+  color: blue;
+  position: absolute;
+  top: 80px;
+  left: 155px;
+}
+.correo{
+  position: absolute;
+  top: 200px;
+  left: 100px;
+  border-bottom: 2px solid #000000;
+  width: 60%;
+  text-align: center;
+
+}
+.input{
+  width: 100%;
+  height: 25px;
+  outline: none;
+  border: none;
+  background: none;
+}
+
+.contraseña{
+  position: absolute;
+  top: 300px;
+  left: 100px;
+  border-bottom: 2px solid #000000;
+  width: 60%;
+  text-align: center;
+
+}
+.uno{
+  position: absolute;
+  top: 450px;
+  left: 230px;
+  text-decoration: none;
+  color: black;
+}
+.dos{
+  position: absolute;
+  top: 480px;
+  left: 284px;
+  text-decoration: none;
+  color: #000000;
+}
+a:hover{
+  color: blue;
+}
+.boton{
+  position: absolute;
+  top: 550px;
+  left: 170px;
+  width: 40%;
+  height: 8%;
+  border: none;
+  background-image:linear-gradient(to right, #0000ff, #0000fa, #0000ff);
+  color: white;
+  text-transform: uppercase;
+}
