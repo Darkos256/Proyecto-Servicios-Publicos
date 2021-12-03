@@ -1,0 +1,113 @@
+.fondo{
+  height: 99.4vh;
+  width: 100%;
+  display: flex;
+}
+.contenedor{
+  position: absolute;
+  top: 1px;
+  left: 1px;
+  width: 99%;
+  height: 99.4vh;
+}
+.imagen {
+  opacity: 40%;;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 91%;
+  height: 85%;
+}
+.contenedor2{
+  position: absolute;
+  top: 50px;
+  left: 50px;
+  width: 91%;
+  height: 85%;
+}
+
+h1{
+  position: absolute;
+  left: 30px;
+  border-bottom: 5px solid #000000;
+  width: 90%;
+}
+
+.registro1{
+  position: absolute;
+  top: 70px;
+  left: 50px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+}
+.registro2{
+  position: absolute;
+  top: 70px;
+  left: 600px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+}
+.registro3{
+  position: absolute;
+  top: 160px;
+  left: 50px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+}
+.registro4{
+  position: absolute;
+  top: 250px;
+  left: 50px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+}
+.registro5{
+  position: absolute;
+  top: 160px;
+  left: 600px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+  
+}
+.registro6{
+  position: absolute;
+  top: 340px;
+  left: 50px;
+  border-bottom: 2px solid #000000;
+  width: 30%;
+}
+input{
+  width: 100%;
+  height: 25px;
+  outline: none;
+  border: none;
+  background: none;
+}
+.requisitos{
+  position: absolute;
+  top: 450px;
+  width: 100%;
+}
+.cuadro{
+  position: absolute;
+  right: 430px;
+  top: 20px;
+}
+.texto{
+  position: absolute;
+  left: 100px;
+  top: 8px;
+  text-align: center;
+}
+.boton{
+  position: absolute;
+  top: 550px;
+  left: 320px;
+  width: 40%;
+  height: 8%;
+  border: none;
+  background-image:linear-gradient(to right, #0000ff, #0000fa, #0000ff);
+  color: white;
+  text-transform: uppercase;
+}
+
