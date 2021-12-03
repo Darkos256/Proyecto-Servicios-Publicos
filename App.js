@@ -17,6 +17,8 @@ function App() {
                 <h5 >Correo</h5>
                 <input type="email" className="email" id="email" class="input" ></input>
               </div>
+             </div>
+             <div className='inicio'>
               <div className='contraseña'>
                 <h5 >Contraseña</h5>
            	    <input type="password" name="password" id="password" class="input"></input>
