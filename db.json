@@ -1,0 +1,16 @@
+[
+    {
+        "id": "1",
+        "nombre": "Aliens",
+        "pais": "James Cameron",
+        "capital_bursatil": "1986",
+        "tipoModal": ""
+    },
+    {
+        "id": "2",
+        "nombre": "The Dark Knight",
+        "pais": "Cristopher Nolan",
+        "capital_bursatil": "2008",
+        "tipoModal": ""
+    }
+]
