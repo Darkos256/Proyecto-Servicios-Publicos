@@ -1,0 +1,39 @@
+.card:hover {
+    box-shadow: 5px 10px 20px 1px rgba(26, 29, 153, 0.678) !important;
+    transition: all 0.4s ease-in-out;
+}
+  
+.card-body {
+    padding: 2rem 0 !important;
+    background: #0F0F38;
+    border: 1px solid #0F0F38;
+}
+
+.card-title{
+    color: white;
+}
+
+.card-text {
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+}
+  
+.overflow {
+    overflow: hidden;
+}
+  
+.card-img-top {
+    transform: scale(1);
+    transition: all .4s ease-in-out;
+    border: 1px solid #0F0F38;
+}
+  
+.card-img-top:hover {
+    transform: scale(1.2);
+}
+
+.col-md-4 {
+  flex: 4 auto;
+  width: 20%;
+}
+
